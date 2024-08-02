@@ -1,0 +1,13 @@
+pwd - (Present Working Directory) Displays the current directory.
+mkdir - Creates a new directory
+rmdir - Removes an empty directory.
+cd - Shifts to a certain directory.
+cp - copies files or directories.
+touch - Creates a new file. 
+cat - Displays the contents of a given  file. 
+tail - displays disk space usage.
+curl - Transfer data to and from a server.
+echo - Displays a line of text.
+clear - Clears the terminal screen.
+ls - Lists directory contents.
+history - shows command history. 
